@@ -16,3 +16,5 @@ OpenPose &amp; Deep Learning based model to classify Yoga Poses
 - To train deep learning model for yoga pose classification of images
 - Uses VGG16, with added custom layers
 - Implements data augmentation
+
+Refer to .pdf for visualizations
