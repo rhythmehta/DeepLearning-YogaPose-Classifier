@@ -12,7 +12,7 @@ OpenPose &amp; Deep Learning based model to classify Yoga Poses
 - we obtain skeleton figures
 - then, normalize and center the black skeleton on white canvas
 
-3. ModelTraining.oy
+3. ModelTraining.py
 - To train deep learning model for yoga pose classification of images
 - Uses VGG16, with added custom layers
 - Implements data augmentation
