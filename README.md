@@ -1,4 +1,4 @@
-# DeepLearning-YogaPose-Classifier
+# Namast.ai - DeepLearning-YogaPose-Classifier
 OpenPose &amp; Deep Learning based model to classify Yoga Poses
 
 1. LoadKaggleDataset.py
